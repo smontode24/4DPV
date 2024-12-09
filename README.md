@@ -79,8 +79,5 @@ screen -dmS "tensorboard" bash -c "tensorboard --logdir=logdir --bind_all"
 - [ ] Provide more examples
 
 ### License
-<details><summary>[expand]</summary>
-
 - [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
 See the [LICENSE](LICENSE) file. 
-</details>
