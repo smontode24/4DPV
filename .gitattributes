@@ -1,0 +1,2 @@
+mesh_material/*.pkl filter=lfs diff=lfs merge=lfs -text
+mesh_material/*.obj filter=lfs diff=lfs merge=lfs -text
